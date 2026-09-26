@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <base href="/parishfolk-play/">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Live a life in your real town.">
+  <meta name="theme-color" content="#FFF6EC">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Parishfolk">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <title>Parishfolk</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    html, body { margin: 0; height: 100%; background: #FFF6EC; }
+    #splash { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+      font-family: sans-serif; color: #E8775A; font-size: 22px; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <div id="splash">Loading…</div>
+  <script>
+    // Ask the browser to keep our storage (best effort; ignored if unsupported).
+    if (navigator.storage && navigator.storage.persist) { navigator.storage.persist().catch(function () {}); }
+    window.addEventListener('flutter-first-frame', function () {
+      var s = document.getElementById('splash'); if (s) s.remove();
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
