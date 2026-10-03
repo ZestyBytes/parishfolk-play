@@ -1,0 +1,376 @@
+{
+ "frames": {
+  "guide_glow_ground": {
+   "frame": {
+    "x": 112,
+    "y": 383,
+    "w": 318,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 0,
+    "w": 318,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_glow_halo": {
+   "frame": {
+    "x": 1,
+    "y": 1,
+    "w": 378,
+    "h": 378
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 3,
+    "w": 378,
+    "h": 378
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_arrow": {
+   "frame": {
+    "x": 229,
+    "y": 521,
+    "w": 78,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 1,
+    "w": 78,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 104
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.9423076923076923
+   }
+  },
+  "guide_hand_0": {
+   "frame": {
+    "x": 383,
+    "y": 1,
+    "w": 107,
+    "h": 139
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 2,
+    "w": 107,
+    "h": 139
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 144
+   },
+   "pivot": {
+    "x": 0.34375,
+    "y": 0.05555555555555555
+   }
+  },
+  "guide_hand_1": {
+   "frame": {
+    "x": 1,
+    "y": 383,
+    "w": 107,
+    "h": 134
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 8,
+    "w": 107,
+    "h": 134
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 144
+   },
+   "pivot": {
+    "x": 0.34375,
+    "y": 0.05555555555555555
+   }
+  },
+  "guide_tap_ring_0": {
+   "frame": {
+    "x": 43,
+    "y": 647,
+    "w": 50,
+    "h": 50
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 39,
+    "y": 39,
+    "w": 50,
+    "h": 50
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_tap_ring_1": {
+   "frame": {
+    "x": 311,
+    "y": 521,
+    "w": 74,
+    "h": 74
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 27,
+    "y": 27,
+    "w": 74,
+    "h": 74
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_tap_ring_2": {
+   "frame": {
+    "x": 127,
+    "y": 521,
+    "w": 98,
+    "h": 98
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 15,
+    "w": 98,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_tap_ring_3": {
+   "frame": {
+    "x": 1,
+    "y": 521,
+    "w": 122,
+    "h": 122
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 3,
+    "w": 122,
+    "h": 122
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_coin_0": {
+   "frame": {
+    "x": 389,
+    "y": 521,
+    "w": 52,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 2,
+    "y": 3,
+    "w": 52,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_coin_1": {
+   "frame": {
+    "x": 445,
+    "y": 521,
+    "w": 46,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 3,
+    "w": 46,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_coin_2": {
+   "frame": {
+    "x": 1,
+    "y": 647,
+    "w": 26,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 3,
+    "w": 26,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_coin_3": {
+   "frame": {
+    "x": 31,
+    "y": 647,
+    "w": 8,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 24,
+    "y": 3,
+    "w": 8,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_coin_4": {
+   "frame": {
+    "x": 1,
+    "y": 647,
+    "w": 26,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 3,
+    "w": 26,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "guide_coin_5": {
+   "frame": {
+    "x": 445,
+    "y": 521,
+    "w": 46,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 3,
+    "w": 46,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "parishfolk-pfkit (TexturePacker JSON hash compatible)",
+  "version": "1.0",
+  "image": "guide@2x.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 512,
+   "h": 701
+  },
+  "scale": "2",
+  "note": "Pixel values are at this scale. Divide by meta.scale for logical px. Trimmed frames: draw at spriteSourceSize offset inside sourceSize; pivot is normalised to sourceSize."
+ }
+}
