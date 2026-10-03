@@ -1,0 +1,12 @@
+sfx_rain_loop.ogg / sfx_rain_loop.m4a
+
+Source:  "Rain (loopable)" by Ylmir, OpenGameArt.org, posted 28 Mar 2016
+URL:     https://opengameart.org/content/rain-loopable  (file 1.ogg from "Rain OGG.zip")
+Licence: CC0 1.0 Universal (Public Domain Dedication), as stated on the page:
+         https://creativecommons.org/publicdomain/zero/1.0/
+Checked: 3 Oct 2026 (licence field on the OpenGameArt page reads "CC0").
+
+Changes made by Parishfolk: 4 s excerpt (from t = 6 s), mixed to mono, resampled to 22.05 kHz,
+equal-power crossfade of the last 0.5 s into the start to make a seamless loop, high-pass 120 Hz,
+fixed gain to -30 dBFS RMS. Script: ../src/rain_loop.py (called by ../src/build_sfx_p1.py).
+No attribution is required; we credit "Rain: Ylmir (OpenGameArt)" in About anyway.
